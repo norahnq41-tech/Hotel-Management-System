@@ -1,5 +1,4 @@
 # Hotel-Management-System
-# Hotel Management System
 
 A comprehensive Hotel Management System developed using Java, Spring Boot, and JavaFX. This project is designed to automate and streamline hospitality operations, providing a robust backend for managing guests, room reservations, and staff workflows.
 
